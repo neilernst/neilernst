@@ -13,6 +13,6 @@ My papers are usually available as preprints on my website.
 
 Contact:
 - [neil@neilernst.net](mailto:neilernst.net)
-- [@neilernst](https://twitter.com/neilernst)
+- [@neilernst](https://mastodon.acm.org/@neilernst)
 
 
