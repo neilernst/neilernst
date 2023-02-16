@@ -9,7 +9,13 @@ Publications:
 - [Scholar](https://scholar.google.com/citations?user=byBabzAAAAAJ&hl=en)
 - [Semantic Scholar](https://www.semanticscholar.org/author/Neil-A.-Ernst/1755165)
 
-My papers are usually available as preprints on my website.
+My papers are usually available as preprints on my website or via Arxiv. But email me if you want one you cannot find. Rarely requested favorites include my masters and PhD theses. 
+
+Teaching:
+- [UVic SENG 321, Requirements Engineering](https://github.com/uvic-seng321/course)
+- [UVic SENG 480D, Data Science for Software Engineering](https://github.com/UVic-Data-Science-for-SE/course)
+- [UVic SENG 330, OO Software Design](https://github.com/SENG330/course)
+
 
 Contact:
 - [neil@neilernst.net](mailto:neilernst.net)
