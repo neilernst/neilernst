@@ -16,6 +16,7 @@ Teaching:
 - [UVic SENG 480D, Data Science for Software Engineering](https://github.com/UVic-Data-Science-for-SE/course)
 - [UVic SENG 330, OO Software Design](https://github.com/SENG330/course)
 - [UVic SENG 350, Software Architecture](https://github.com/seng350/course)
+- [UVic CSC 595, Research Skills](https://github.com/neilernst/ResearchSkillsUVic)
 
 Contact:
 - [neil@neilernst.net](mailto:neilernst.net)
