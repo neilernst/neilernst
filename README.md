@@ -13,7 +13,7 @@ My papers are usually available as preprints on my website or via Arxiv. But ema
 
 Teaching:
 - [UVic SENG 321, Requirements Engineering](https://github.com/uvic-seng321/course)
-- [UVic SENG 480D, Data Science for Software Engineering](https://github.com/UVic-Data-Science-for-SE/course)
+- [UVic SENG 404/504, Data Science for Software Engineering](https://github.com/UVic-Data-Science-for-SE/course)
 - [UVic SENG 330, OO Software Design](https://github.com/SENG330/course)
 - [UVic SENG 350, Software Architecture](https://github.com/seng350/course)
 - [UVic CSC 595, Research Skills](https://github.com/neilernst/ResearchSkillsUVic)
