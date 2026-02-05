@@ -12,11 +12,7 @@ Publications:
 My papers are usually available as preprints on my website or via Arxiv. But email me if you want one you cannot find. Rarely requested favorites include my masters and PhD theses. 
 
 Teaching:
-- [UVic SENG 321, Requirements Engineering](https://github.com/uvic-seng321/course)
-- [UVic SENG 404/504, Data Science for Software Engineering](https://github.com/UVic-Data-Science-for-SE/course)
-- [UVic SENG 330, OO Software Design](https://github.com/SENG330/course)
-- [UVic SENG 350, Software Architecture](https://github.com/seng350/course)
-- [UVic CSC 595, Research Skills](https://github.com/neilernst/ResearchSkillsUVic)
+- any public notes are at https://neilernst.quarto.pub. I used to do it all on Github but a) students complained b) why do free labour for AI? 
 
 Contact:
 - [neil@neilernst.net](mailto:neilernst.net)
